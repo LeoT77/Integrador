@@ -1,0 +1,65 @@
+nav {
+    margin-top: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+.imagen-1 {
+    width: 220px;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+.imagen-2 {
+    width: 220px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+.imagen-3 {
+    width: 220px;
+
+}
+
+.imagen-4 {
+    width: 220px;
+
+}
+
+.imagen-5 {
+    width: 220px;
+}
+
+.pf-1 {
+    margin-right: 80px;
+    margin-left: -20px;
+    text-align: center;
+}
+
+.pf-2 {
+    margin-left: 100px;
+    text-align: center;
+}
+
+.pf-3 {
+    text-align: center;
+}
+
+.pf-4 {
+    text-align: center;
+}
+
+.pf-5 {
+    text-align: center;
+}
